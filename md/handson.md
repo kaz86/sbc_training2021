@@ -1,4 +1,4 @@
-## Slide 1
+## ハンズオン１
 A paragraph with some text and a [link](http://hakim.se).
 
 ---
