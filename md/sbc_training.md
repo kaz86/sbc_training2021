@@ -1,10 +1,3 @@
----
-theme: "White"
-transition: "slide"
-slideNumber: true
-title: "SBCとロボット用SWプラットフォームを用いたロボット・ドローン開発入門"
-
----
 # ハンズオン資料
 SBCとロボット用SWプラットフォームを用いた　
 ロボット・ドローン開発入門 
