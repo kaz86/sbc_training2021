@@ -38,7 +38,21 @@
 			// - https://revealjs.com/config/
 			Reveal.initialize({
 				hash: true,
+				
+				// スライドのページ番号を表示する
+				slideNumber: false,
 
+				// マウスホイールでページを移動していい
+				mouseWheel: false,				
+				
+ 				// スライド遷移アニメーション
+  				// none / fade / slide / convex / concave / zoom
+  				transition: 'slide',				
+				
+				// スライド遷移スピード
+				// default / fast / slow
+				transitionSpeed: 'default',
+				
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
 			});
